@@ -58,14 +58,14 @@ export default function Contact() {
         
         {/* Left Column: Text */}
         <div>
-          <h2 className="text-4xl font-light text-white mb-6">Let's create together.</h2>
+          <h2 className="text-4xl font-light text-white mb-6">Let's create together!</h2>
           <p className="text-gray-400 mb-8 leading-relaxed">
             Open for commissions and collaborations. <br />
-            Based in New York, available worldwide.
+            Based in Madrid.
           </p>
           <div className="space-y-2 text-gray-500 text-sm">
-            <p>MAIL: hello@lumos.studio</p>
-            <p>TEL: +1 (555) 000-0000</p>
+            <p>MAIL: khechen2018@gmail.com</p>
+            <p>TEL/WhatsApp: +34 614 533 977</p>
           </div>
         </div>
 

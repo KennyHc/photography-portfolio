@@ -33,7 +33,7 @@ function NavigationOverlay({ isOpen, onClose }) {
 
   const links = [
     { name: "Selected Works", href: "#gallery" },
-    { name: "About Studio", href: "#" },
+    { name: "About Me", href: "#" },
     { name: "Services", href: "#" },
     { name: "Contact", href: "#contact" },
   ];
@@ -76,7 +76,7 @@ function NavigationOverlay({ isOpen, onClose }) {
             animate={{ opacity: 1, transition: { delay: 0.8 } }}
             className="absolute bottom-12 text-gray-500 text-sm tracking-widest uppercase"
           >
-            New York — Paris — Tokyo
+            Peru — China — Canada - Madrid
           </motion.div>
         </motion.div>
       )}
